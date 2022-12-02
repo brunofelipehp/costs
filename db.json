@@ -39,6 +39,28 @@
       "cost": 0,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "novo projeto3",
+      "budget": "1500",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Bruno Felipe ",
+      "budget": "400",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
