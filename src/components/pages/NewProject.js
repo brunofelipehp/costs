@@ -20,7 +20,6 @@ export function NewProject() {
         })
         .then(res => res.json())
         .then(data => {
-            console.log(data)
             //redirect
             navigate('/projects', {state: {message: 'Projeto criado com sucesso!'}})
         })
