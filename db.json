@@ -61,6 +61,17 @@
       "cost": 0,
       "services": [],
       "id": 6
+    },
+    {
+      "name": "Smart Tv",
+      "budget": "5000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
     }
   ],
   "categories": [
