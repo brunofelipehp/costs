@@ -1,70 +1,19 @@
 {
   "projects": [
     {
-      "name": "Nlw Copa",
-      "budget": "123",
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Construção",
-      "budget": "123",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "NLW Return",
-      "budget": "123",
+      "budget": "2500",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "DATABASE_URL",
-      "budget": "800",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "novo projeto3",
-      "budget": "1500",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "Bruno Felipe ",
-      "budget": "400",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
       "id": 6
     },
     {
-      "name": "Smart Tv",
-      "budget": "5000",
+      "name": "Nlw Copa",
+      "budget": "4822",
       "category": {
         "id": "4",
         "name": "Planejamento"
