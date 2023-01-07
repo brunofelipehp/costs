@@ -7,8 +7,21 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2000,
+      "services": [
+        {
+          "name": "New service",
+          "cost": "1000",
+          "description": "novos produtos",
+          "id": "169d7f72-4c52-4017-a606-b2a42249f0b4"
+        },
+        {
+          "name": "New service",
+          "cost": "1000",
+          "description": "novos produtos",
+          "id": "169d7f72-4c52-4017-a606-b2a42249f0b4"
+        }
+      ],
       "id": 6
     },
     {
