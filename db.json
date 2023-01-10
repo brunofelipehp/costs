@@ -7,21 +7,8 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 2500,
-      "services": [
-        {
-          "name": "New service",
-          "cost": "1000",
-          "description": "novos produtos",
-          "id": "169d7f72-4c52-4017-a606-b2a42249f0b4"
-        },
-        {
-          "name": "novo serviço",
-          "cost": "500",
-          "description": "sadasdsadsadsadsad",
-          "id": "1fb298c4-6530-4a39-9ea7-3ff5adca901d"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 6
     },
     {
@@ -31,21 +18,8 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 1500,
-      "services": [
-        {
-          "name": "novo serviço",
-          "cost": "500",
-          "description": "sadasdsadsadsadsad",
-          "id": "9d7cff5d-9f3d-47be-82cc-a40084a57d96"
-        },
-        {
-          "name": "novo serviço",
-          "cost": "500",
-          "description": "sadasdsadsadsadsad",
-          "id": "f0f6ec40-e6cb-41c2-bf59-cbc6a429eaaa"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 7
     }
   ],
